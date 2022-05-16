@@ -1,8 +1,0 @@
-Praxis Übung erstelle ein BPNM-Diagramm über folgenden Prozess:
-
-
-Es wird eine Pizza Bestellt der Prozess beginnt damit, dass wir uns eine Pizza aussuchen, danach bestellen wir die Pizza.
-Die Pizza wird inzwischen gebacken und anschließend geliefert.
-Wenn wir die Pizza sofort bekommen bezahlen wir sie und essen sie anschließend auf,
-aber wenn sie nach 60 min noch nicht angekommen ist, dann fragen wir beim Pizza Dienst nochmals nach. Dadurch bekommen wir 
-die Bestellubng und kommen auch zum Essen.
